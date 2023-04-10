@@ -1,0 +1,11 @@
+{
+  "name": "retro-arcade",
+  "version": "1.0.0",
+  "description": "Browser-based Games Website(front end) using html,css,javascript,bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
